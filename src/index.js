@@ -1,6 +1,13 @@
+// POLYFILLS
+import 'react-app-polyfill/ie11';
+import 'react-app-polyfill/stable';
+// NPM MODULES
 import React from 'react';
 import ReactDOM from 'react-dom';
+// STYLES
+import 'normalize.css';
 import './index.css';
+// COMPONENTS
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

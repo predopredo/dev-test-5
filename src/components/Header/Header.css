@@ -1,0 +1,12 @@
+h1 {
+  color: #3d251b;
+}
+
+.nav_Link {
+  border-radius: 10px;
+  color: #3d251b;
+  height: 30px;
+  text-decoration: none;
+  width: 150px;
+  font-size: 15px;
+}
